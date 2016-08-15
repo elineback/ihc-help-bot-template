@@ -1,0 +1,8 @@
+/** Config */
+
+module.exports = {
+    FB_PAGE_TOKEN: 'EAACoWFGJ1oQBAESExe0gThApyVDihf76Adt8rwnA1Sg7kAUFhSXQFRNgcQWJu5QvHyExvChMrlGCK054E0h3qxtbmp3nNQP7Tuf2xuIRdOXrsBKlqdLm5ZCgHcykyWJ0EKA6wC1CVqxhmcctRhgGz8twKE6yXnlyWPHA0LAZDZD',
+    FB_PAGE_ID: '185097278576260',
+    FB_VERIFY_TOKEN: 'my_voice_is_my_password_verify_me',
+    WIT_TOKEN: 'S2LRL7QQPFQUYQJKGXC6XEDYDWG7AKB4',
+};
